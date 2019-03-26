@@ -45,8 +45,8 @@
               <img src="${tweetSvg}" alt="Tweet"/>
           </a>
         <div class="text">
-          <h1>Congratulations!</h1>
-          <h2>You just created a Java Spring web application.</h2>
+          <h1>Esta aplicacao foi alterada. Hora da renderizacao: <%=new java.text.SimpleDateFormat("dd/MM/yyyy HH:mm:ss").parse(new java.util.Date()) =></h1>
+          <h2>Voce acaYou just created a Java Spring web application.</h2>
         </div>
       </div>
     </div>
